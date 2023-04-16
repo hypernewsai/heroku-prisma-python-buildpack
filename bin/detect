@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "Prisma Generate Buildpack"
+exit 0
