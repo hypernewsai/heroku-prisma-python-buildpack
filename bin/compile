@@ -6,3 +6,4 @@ echo $1
 cd $1
 
 prisma generate
+prisma py fetch
